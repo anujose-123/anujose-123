@@ -2,9 +2,9 @@
 
 I am Anu Jose, final year MSC Data Science student in Christ University. My interest lies in machine learning and python. I am always curious to learn something new.
 
-<ul>🔭 I’m currently enrolled for python sholarship</ul>
+<ul><li>🔭 I’m currently enrolled for python sholarship</li></ul>
 
--🌱 I’m currently learning ML models
+<ul><li>🌱 I’m currently learning ML models<li></ul>
 
 -💬 Ask me about ML
 <!--
