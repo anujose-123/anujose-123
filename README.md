@@ -3,11 +3,8 @@
 I am Anu Jose, final year MSC Data Science student in Christ University. My interest lies in machine learning and python. I am always curious to learn something new.
 
 <ul><li>🔭 I’m currently enrolled for python sholarship</li></ul>
-
-<ul><li>🌱 I’m currently learning ML models<li></ul>
-
+<ul><li>🌱 I’m currently learning ML models</li></ul>
 <ul><li>💬 Ask me about ML</li></ul>
-
 <ul><li>⚡ Fun fact:I can work without music</li></ul>
 <!--
 **anujose-123/anujose-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
