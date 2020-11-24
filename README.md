@@ -2,7 +2,7 @@
 
 I am Anu Jose, final year MSC Data Science student in Christ University. My interest lies in machine learning and python. I am always curious to learn something new.
 
--🔭 I’m currently enrolled for python sholarship
+<ul>🔭 I’m currently enrolled for python sholarship</ul>
 
 -🌱 I’m currently learning ML models
 
