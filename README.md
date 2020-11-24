@@ -6,7 +6,9 @@ I am Anu Jose, final year MSC Data Science student in Christ University. My inte
 
 <ul><li>🌱 I’m currently learning ML models<li></ul>
 
--💬 Ask me about ML
+<ul><li>💬 Ask me about ML</li></ul>
+
+<ul><li>⚡ Fun fact:I can work without music</li></ul>
 <!--
 **anujose-123/anujose-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
